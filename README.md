@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Code](https://github.com/anhoang241998/Stats-preview-card-component)
+- Live Site URL: [Live Solution website](https://anhoang241998.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -72,4 +72,4 @@ Users should be able to:
 ## Author
 
 - Faceboook - [Nguyen Hoang An Facebook](https://www.facebook.com/an.nguyenhoang.10)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@anhoang241998](https://www.frontendmentor.io/profile/anhoang241998)
